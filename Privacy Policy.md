@@ -1,0 +1,31 @@
+# Privacy Policy
+
+**Effective Date:** 2026-02-17
+
+This Privacy Policy explains how **Paper Plus** (the "Application") collects, uses, and discloses information about you when you use our Revit Add-in.
+
+## Data Collection and Usage
+
+### 1. Local Data Processing
+Paper Plus is designed to respect your privacy. The core functionality of the Application, such as the **PaperSheet** export tools, operates entirely locally on your machine.
+- We do not upload your Revit models, drawings, or exported files to any external servers.
+- All file processing happens within your local environment.
+
+### 2. Internet Connection
+The Application may require an internet connection for specific features:
+- **Updates**: The Application may check our servers to determine if a new version is available.
+- **Feedback**: If you use the built-in "Feedback" form, the information you provide (such as your email address, message, and any attached logs or screenshots) will be sent to us so we can address your inquiry.
+
+### 3. Personal Information
+We do not collect personal information (such as your name, address, or phone number) unless you voluntarily provide it to us, for example, by sending us an email or using the Feedback feature.
+
+## Third-Party Services
+The Application is a plugin for Autodesk Revit. Please refer to Autodesk's privacy policy for information on how the host application handles your data.
+
+## Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page or within the Application's update notes.
+
+## Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+- **Email**: trinhvutuanhung@gmail.com
+- **Developer**: Cazorlas (Paper Engineer)
